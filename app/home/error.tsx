@@ -16,7 +16,7 @@ function Error({
 
     return (
         <div>
-            <h2>Something went veryyyy wrong!</h2>
+            <h2>Something went veryyyy wrong! Please wait!</h2>
             <button
                 onClick={
                     // Attempt to recover by trying to re-render the segment
