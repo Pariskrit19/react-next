@@ -6,7 +6,7 @@ export default function HomeLayout({
 
 }) {
     const isUser = true;
-    return <section><h1>Home</h1>{children}
+    return <section><h1>This Is Home</h1>{children}
 
     </section>;
 }
